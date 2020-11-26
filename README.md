@@ -3,6 +3,6 @@ Numerical Methods homeworks
 
 ## Homework-I
 
- • Fixed-Point Iteration
- • Gauss Seidel Iteration
- • Newton Raphson Iteration
+ • Fixed-Point Iteration\n
+ • Gauss Seidel Iteration\n
+ • Newton Raphson Iteration\n
